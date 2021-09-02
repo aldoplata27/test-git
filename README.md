@@ -6,4 +6,8 @@ Repositorio prueba
 
 Ejercicios de git 
 
+History
 ![](./img/7.png)
+
+Network
+![](./img/network.png)
